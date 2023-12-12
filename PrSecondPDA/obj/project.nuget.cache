@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i3twAerNhCLjo+szIQgdWdPWEay+x53Cza2olgNXY4BtTGh6/D+bJcWIMHN/41bBB86lSqsi49zMfooPWEM2Gw==",
+  "dgSpecHash": "9ps5vCM++msm2RY+2LLeeKzXpUc/AyngV2NV+IdiNZKkFMSIOO/oCv9Ag4J5fiCC5IZtyxBjQ2P4eNaa51iNkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Danii\\Desktop\\PrPDA\\PrFirstPDA\\PrFirstPDA.csproj",
+  "projectFilePath": "C:\\Users\\Danii\\Desktop\\PrPDA\\PrSecondPDA\\PrSecondPDA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Danii\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\Danii\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",

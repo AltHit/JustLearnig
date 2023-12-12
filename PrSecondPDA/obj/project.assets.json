@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Danii\\Desktop\\PrPDA\\PrFirstPDA\\PrFirstPDA.csproj",
-      "projectName": "PrFirstPDA",
-      "projectPath": "C:\\Users\\Danii\\Desktop\\PrPDA\\PrFirstPDA\\PrFirstPDA.csproj",
+      "projectUniqueName": "C:\\Users\\Danii\\Desktop\\PrPDA\\PrSecondPDA\\PrSecondPDA.csproj",
+      "projectName": "PrSecondPDA",
+      "projectPath": "C:\\Users\\Danii\\Desktop\\PrPDA\\PrSecondPDA\\PrSecondPDA.csproj",
       "packagesPath": "C:\\Users\\Danii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Danii\\Desktop\\PrPDA\\PrFirstPDA\\obj\\",
+      "outputPath": "C:\\Users\\Danii\\Desktop\\PrPDA\\PrSecondPDA\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
