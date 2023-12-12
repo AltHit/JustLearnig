@@ -1,0 +1,15 @@
+C:\Users\Danii\Desktop\PrPDA\PrSecondPDA\bin\Debug\net7.0\PrSecondPDA.exe
+C:\Users\Danii\Desktop\PrPDA\PrSecondPDA\bin\Debug\net7.0\PrSecondPDA.deps.json
+C:\Users\Danii\Desktop\PrPDA\PrSecondPDA\bin\Debug\net7.0\PrSecondPDA.runtimeconfig.json
+C:\Users\Danii\Desktop\PrPDA\PrSecondPDA\bin\Debug\net7.0\PrSecondPDA.dll
+C:\Users\Danii\Desktop\PrPDA\PrSecondPDA\bin\Debug\net7.0\PrSecondPDA.pdb
+C:\Users\Danii\Desktop\PrPDA\PrSecondPDA\obj\Debug\net7.0\PrSecondPDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danii\Desktop\PrPDA\PrSecondPDA\obj\Debug\net7.0\PrSecondPDA.AssemblyInfoInputs.cache
+C:\Users\Danii\Desktop\PrPDA\PrSecondPDA\obj\Debug\net7.0\PrSecondPDA.AssemblyInfo.cs
+C:\Users\Danii\Desktop\PrPDA\PrSecondPDA\obj\Debug\net7.0\PrSecondPDA.csproj.CoreCompileInputs.cache
+C:\Users\Danii\Desktop\PrPDA\PrSecondPDA\obj\Debug\net7.0\PrSecondPDA.sourcelink.json
+C:\Users\Danii\Desktop\PrPDA\PrSecondPDA\obj\Debug\net7.0\PrSecondPDA.dll
+C:\Users\Danii\Desktop\PrPDA\PrSecondPDA\obj\Debug\net7.0\refint\PrSecondPDA.dll
+C:\Users\Danii\Desktop\PrPDA\PrSecondPDA\obj\Debug\net7.0\PrSecondPDA.pdb
+C:\Users\Danii\Desktop\PrPDA\PrSecondPDA\obj\Debug\net7.0\PrSecondPDA.genruntimeconfig.cache
+C:\Users\Danii\Desktop\PrPDA\PrSecondPDA\obj\Debug\net7.0\ref\PrSecondPDA.dll
