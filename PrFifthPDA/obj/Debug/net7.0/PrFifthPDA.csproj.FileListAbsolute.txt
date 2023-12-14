@@ -1,0 +1,14 @@
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrFifthPDA\bin\Debug\net7.0\PrFifthPDA.exe
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrFifthPDA\bin\Debug\net7.0\PrFifthPDA.deps.json
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrFifthPDA\bin\Debug\net7.0\PrFifthPDA.runtimeconfig.json
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrFifthPDA\bin\Debug\net7.0\PrFifthPDA.dll
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrFifthPDA\bin\Debug\net7.0\PrFifthPDA.pdb
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrFifthPDA\obj\Debug\net7.0\PrFifthPDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrFifthPDA\obj\Debug\net7.0\PrFifthPDA.AssemblyInfoInputs.cache
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrFifthPDA\obj\Debug\net7.0\PrFifthPDA.AssemblyInfo.cs
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrFifthPDA\obj\Debug\net7.0\PrFifthPDA.csproj.CoreCompileInputs.cache
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrFifthPDA\obj\Debug\net7.0\PrFifthPDA.dll
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrFifthPDA\obj\Debug\net7.0\refint\PrFifthPDA.dll
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrFifthPDA\obj\Debug\net7.0\PrFifthPDA.pdb
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrFifthPDA\obj\Debug\net7.0\PrFifthPDA.genruntimeconfig.cache
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrFifthPDA\obj\Debug\net7.0\ref\PrFifthPDA.dll
