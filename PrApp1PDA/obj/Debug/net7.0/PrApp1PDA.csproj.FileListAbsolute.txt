@@ -1,0 +1,14 @@
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrApp1PDA\bin\Debug\net7.0\PrApp1PDA.exe
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrApp1PDA\bin\Debug\net7.0\PrApp1PDA.deps.json
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrApp1PDA\bin\Debug\net7.0\PrApp1PDA.runtimeconfig.json
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrApp1PDA\bin\Debug\net7.0\PrApp1PDA.dll
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrApp1PDA\bin\Debug\net7.0\PrApp1PDA.pdb
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrApp1PDA\obj\Debug\net7.0\PrApp1PDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrApp1PDA\obj\Debug\net7.0\PrApp1PDA.AssemblyInfoInputs.cache
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrApp1PDA\obj\Debug\net7.0\PrApp1PDA.AssemblyInfo.cs
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrApp1PDA\obj\Debug\net7.0\PrApp1PDA.csproj.CoreCompileInputs.cache
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrApp1PDA\obj\Debug\net7.0\PrApp1PDA.dll
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrApp1PDA\obj\Debug\net7.0\refint\PrApp1PDA.dll
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrApp1PDA\obj\Debug\net7.0\PrApp1PDA.pdb
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrApp1PDA\obj\Debug\net7.0\PrApp1PDA.genruntimeconfig.cache
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrApp1PDA\obj\Debug\net7.0\ref\PrApp1PDA.dll

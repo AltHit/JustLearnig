@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrFifthPDA", "PrFifthPDA\Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrSixPDA", "PrSixPDA\PrSixPDA.csproj", "{00E9DA41-4949-4EDD-9302-C3A71EA12AA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrApp1PDA", "PrApp1PDA\PrApp1PDA.csproj", "{970357F0-0653-40FB-9F43-32123EB2235A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{00E9DA41-4949-4EDD-9302-C3A71EA12AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00E9DA41-4949-4EDD-9302-C3A71EA12AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00E9DA41-4949-4EDD-9302-C3A71EA12AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{970357F0-0653-40FB-9F43-32123EB2235A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970357F0-0653-40FB-9F43-32123EB2235A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970357F0-0653-40FB-9F43-32123EB2235A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970357F0-0653-40FB-9F43-32123EB2235A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
