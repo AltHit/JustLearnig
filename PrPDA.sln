@@ -9,6 +9,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrSecondPDA", "PrSecondPDA\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrTrhirdPDA", "PrTrhirdPDA\PrTrhirdPDA.csproj", "{E3F12A86-1998-401E-9DC9-69264CA58453}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrFourthPDA", "PrFourthPDA\PrFourthPDA.csproj", "{64144E94-73CE-4E90-A611-2235CD73F366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrFifthPDA", "PrFifthPDA\PrFifthPDA.csproj", "{E344D68D-96E5-46B2-9FD8-3895C99EEE5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrSixPDA", "PrSixPDA\PrSixPDA.csproj", "{00E9DA41-4949-4EDD-9302-C3A71EA12AA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

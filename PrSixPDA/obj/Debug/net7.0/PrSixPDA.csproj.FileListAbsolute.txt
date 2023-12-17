@@ -1,0 +1,14 @@
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrSixPDA\bin\Debug\net7.0\PrSixPDA.exe
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrSixPDA\bin\Debug\net7.0\PrSixPDA.deps.json
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrSixPDA\bin\Debug\net7.0\PrSixPDA.runtimeconfig.json
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrSixPDA\bin\Debug\net7.0\PrSixPDA.dll
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrSixPDA\bin\Debug\net7.0\PrSixPDA.pdb
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrSixPDA\obj\Debug\net7.0\PrSixPDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrSixPDA\obj\Debug\net7.0\PrSixPDA.AssemblyInfoInputs.cache
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrSixPDA\obj\Debug\net7.0\PrSixPDA.AssemblyInfo.cs
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrSixPDA\obj\Debug\net7.0\PrSixPDA.csproj.CoreCompileInputs.cache
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrSixPDA\obj\Debug\net7.0\PrSixPDA.dll
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrSixPDA\obj\Debug\net7.0\refint\PrSixPDA.dll
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrSixPDA\obj\Debug\net7.0\PrSixPDA.pdb
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrSixPDA\obj\Debug\net7.0\PrSixPDA.genruntimeconfig.cache
+C:\Users\Public.COPP\RiderProjects\PrPDA\PrSixPDA\obj\Debug\net7.0\ref\PrSixPDA.dll
