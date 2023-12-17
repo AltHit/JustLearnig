@@ -1,0 +1,15 @@
+C:\Users\Danii\Desktop\PrPDA\PrTrhirdPDA\bin\Debug\net7.0\PrTrhirdPDA.exe
+C:\Users\Danii\Desktop\PrPDA\PrTrhirdPDA\bin\Debug\net7.0\PrTrhirdPDA.deps.json
+C:\Users\Danii\Desktop\PrPDA\PrTrhirdPDA\bin\Debug\net7.0\PrTrhirdPDA.runtimeconfig.json
+C:\Users\Danii\Desktop\PrPDA\PrTrhirdPDA\bin\Debug\net7.0\PrTrhirdPDA.dll
+C:\Users\Danii\Desktop\PrPDA\PrTrhirdPDA\bin\Debug\net7.0\PrTrhirdPDA.pdb
+C:\Users\Danii\Desktop\PrPDA\PrTrhirdPDA\obj\Debug\net7.0\PrTrhirdPDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danii\Desktop\PrPDA\PrTrhirdPDA\obj\Debug\net7.0\PrTrhirdPDA.AssemblyInfoInputs.cache
+C:\Users\Danii\Desktop\PrPDA\PrTrhirdPDA\obj\Debug\net7.0\PrTrhirdPDA.AssemblyInfo.cs
+C:\Users\Danii\Desktop\PrPDA\PrTrhirdPDA\obj\Debug\net7.0\PrTrhirdPDA.csproj.CoreCompileInputs.cache
+C:\Users\Danii\Desktop\PrPDA\PrTrhirdPDA\obj\Debug\net7.0\PrTrhirdPDA.sourcelink.json
+C:\Users\Danii\Desktop\PrPDA\PrTrhirdPDA\obj\Debug\net7.0\PrTrhirdPDA.dll
+C:\Users\Danii\Desktop\PrPDA\PrTrhirdPDA\obj\Debug\net7.0\refint\PrTrhirdPDA.dll
+C:\Users\Danii\Desktop\PrPDA\PrTrhirdPDA\obj\Debug\net7.0\PrTrhirdPDA.pdb
+C:\Users\Danii\Desktop\PrPDA\PrTrhirdPDA\obj\Debug\net7.0\PrTrhirdPDA.genruntimeconfig.cache
+C:\Users\Danii\Desktop\PrPDA\PrTrhirdPDA\obj\Debug\net7.0\ref\PrTrhirdPDA.dll
