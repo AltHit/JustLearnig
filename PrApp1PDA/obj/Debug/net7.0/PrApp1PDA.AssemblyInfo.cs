@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PrSecondPDA")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("PrApp1PDA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("PrSecondPDA")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PrSecondPDA")]
+[assembly: System.Reflection.AssemblyProductAttribute("PrApp1PDA")]
+[assembly: System.Reflection.AssemblyTitleAttribute("PrApp1PDA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

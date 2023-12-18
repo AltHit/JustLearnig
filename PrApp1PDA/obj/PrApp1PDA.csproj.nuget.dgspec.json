@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Public.COPP\\RiderProjects\\PrPDA\\PrFirstPDA\\PrFirstPDA.csproj": {}
+    "C:\\Users\\Public.COPP\\RiderProjects\\PrPDA\\PrApp1PDA\\PrApp1PDA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Public.COPP\\RiderProjects\\PrPDA\\PrFirstPDA\\PrFirstPDA.csproj": {
+    "C:\\Users\\Public.COPP\\RiderProjects\\PrPDA\\PrApp1PDA\\PrApp1PDA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Public.COPP\\RiderProjects\\PrPDA\\PrFirstPDA\\PrFirstPDA.csproj",
-        "projectName": "PrFirstPDA",
-        "projectPath": "C:\\Users\\Public.COPP\\RiderProjects\\PrPDA\\PrFirstPDA\\PrFirstPDA.csproj",
+        "projectUniqueName": "C:\\Users\\Public.COPP\\RiderProjects\\PrPDA\\PrApp1PDA\\PrApp1PDA.csproj",
+        "projectName": "PrApp1PDA",
+        "projectPath": "C:\\Users\\Public.COPP\\RiderProjects\\PrPDA\\PrApp1PDA\\PrApp1PDA.csproj",
         "packagesPath": "C:\\Users\\Public.COPP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Public.COPP\\RiderProjects\\PrPDA\\PrFirstPDA\\obj\\",
+        "outputPath": "C:\\Users\\Public.COPP\\RiderProjects\\PrPDA\\PrApp1PDA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

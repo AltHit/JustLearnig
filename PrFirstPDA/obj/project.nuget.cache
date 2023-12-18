@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i3twAerNhCLjo+szIQgdWdPWEay+x53Cza2olgNXY4BtTGh6/D+bJcWIMHN/41bBB86lSqsi49zMfooPWEM2Gw==",
+  "dgSpecHash": "99Vz1XYJml4wASygagKp4rwsibzDla06zdEmOemYT1YGc6wZ8EXlxyTHCp/1LzfBgjQjhUWUAPjXyFiUJc+5JQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Danii\\Desktop\\PrPDA\\PrFirstPDA\\PrFirstPDA.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Danii\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Danii\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Danii\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Danii\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Public.COPP\\RiderProjects\\PrPDA\\PrFirstPDA\\PrFirstPDA.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

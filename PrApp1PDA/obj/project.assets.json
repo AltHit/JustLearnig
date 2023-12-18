@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Public.COPP\\RiderProjects\\PrPDA\\PrSecondPDA\\PrSecondPDA.csproj",
-      "projectName": "PrSecondPDA",
-      "projectPath": "C:\\Users\\Public.COPP\\RiderProjects\\PrPDA\\PrSecondPDA\\PrSecondPDA.csproj",
+      "projectUniqueName": "C:\\Users\\Public.COPP\\RiderProjects\\PrPDA\\PrApp1PDA\\PrApp1PDA.csproj",
+      "projectName": "PrApp1PDA",
+      "projectPath": "C:\\Users\\Public.COPP\\RiderProjects\\PrPDA\\PrApp1PDA\\PrApp1PDA.csproj",
       "packagesPath": "C:\\Users\\Public.COPP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Public.COPP\\RiderProjects\\PrPDA\\PrSecondPDA\\obj\\",
+      "outputPath": "C:\\Users\\Public.COPP\\RiderProjects\\PrPDA\\PrApp1PDA\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
