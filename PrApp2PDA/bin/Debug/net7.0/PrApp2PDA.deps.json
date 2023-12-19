@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PrApp2PDA/1.0.0": {
+        "runtime": {
+          "PrApp2PDA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrApp2PDA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
