@@ -1,0 +1,15 @@
+C:\Users\Danii\Desktop\PrPDA\PrApp2PDA\bin\Debug\net7.0\PrApp2PDA.exe
+C:\Users\Danii\Desktop\PrPDA\PrApp2PDA\bin\Debug\net7.0\PrApp2PDA.deps.json
+C:\Users\Danii\Desktop\PrPDA\PrApp2PDA\bin\Debug\net7.0\PrApp2PDA.runtimeconfig.json
+C:\Users\Danii\Desktop\PrPDA\PrApp2PDA\bin\Debug\net7.0\PrApp2PDA.dll
+C:\Users\Danii\Desktop\PrPDA\PrApp2PDA\bin\Debug\net7.0\PrApp2PDA.pdb
+C:\Users\Danii\Desktop\PrPDA\PrApp2PDA\obj\Debug\net7.0\PrApp2PDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danii\Desktop\PrPDA\PrApp2PDA\obj\Debug\net7.0\PrApp2PDA.AssemblyInfoInputs.cache
+C:\Users\Danii\Desktop\PrPDA\PrApp2PDA\obj\Debug\net7.0\PrApp2PDA.AssemblyInfo.cs
+C:\Users\Danii\Desktop\PrPDA\PrApp2PDA\obj\Debug\net7.0\PrApp2PDA.csproj.CoreCompileInputs.cache
+C:\Users\Danii\Desktop\PrPDA\PrApp2PDA\obj\Debug\net7.0\PrApp2PDA.sourcelink.json
+C:\Users\Danii\Desktop\PrPDA\PrApp2PDA\obj\Debug\net7.0\PrApp2PDA.dll
+C:\Users\Danii\Desktop\PrPDA\PrApp2PDA\obj\Debug\net7.0\refint\PrApp2PDA.dll
+C:\Users\Danii\Desktop\PrPDA\PrApp2PDA\obj\Debug\net7.0\PrApp2PDA.pdb
+C:\Users\Danii\Desktop\PrPDA\PrApp2PDA\obj\Debug\net7.0\PrApp2PDA.genruntimeconfig.cache
+C:\Users\Danii\Desktop\PrPDA\PrApp2PDA\obj\Debug\net7.0\ref\PrApp2PDA.dll
